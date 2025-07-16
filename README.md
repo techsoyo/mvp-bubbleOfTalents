@@ -1,17 +1,25 @@
-# mvp-bubbleOfTalents
-MVP seccion Bubble of Talent - bubblegum.agency
+# MVP Tu Aplicación
 
-# MVP "A Bubble of Talents"
+## Descripción
+Breve descripción de tu aplicación y su propósito.
 
-**Stack principal:**  
-- Backend: PHP 8.1+ (MVC)  
-- Frontend: Next.js 14  
-- Base de datos: MySQL 8.0  
-- Entorno: Laragon (PHP + MySQL) + Docker (opcional)
+## Tech Stack
+- **Backend**: PHP 8.1+ (MVC)
+- **Frontend**: Next.js
+- **Base de Datos**: MySQL 8.0
+- **Infraestructura**: Laragon (Windows)
 
-## Requisitos
-- PHP >= 8.1  
-- Node.js >= 18  
-- MySQL 8.0  
-- Composer  
-- Yarn/NPM  
+## Instalación
+
+### Requisitos
+- PHP 8.1+
+- Node.js 18+
+- MySQL 8.0
+- Composer
+- Yarn/NPM
+
+### Pasos
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/mvp-tu-aplicacion.git
+   cd mvp-tu-aplicacion

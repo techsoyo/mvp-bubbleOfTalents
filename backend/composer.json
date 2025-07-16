@@ -1,0 +1,16 @@
+{
+    "name": "kikko/backend",
+    "description": "Backend de MVP para A Bubble of Talents",
+    "autoload": {
+        "psr-4": {
+            "Kikko\\Backend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kikkobcn",
+            "email": "kikobonometti@gmail.com"
+        }
+    ],
+    "require": {}
+}
